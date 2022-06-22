@@ -1,3 +1,3 @@
 # git_test
-README TEST
+README TEST template test ver.
 
